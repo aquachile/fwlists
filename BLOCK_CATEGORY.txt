@@ -1,5 +1,6 @@
 masterprotv1.com
 rpt.toptip.cc
+abtest-va-tiktok.byteoversea.com
 biterstraiky.life
 guigebichir.website
 animeid.tv
@@ -23,7 +24,6 @@ api2.musical.ly
 log2.musical.ly
 api2-21-h2.musical.ly
 api-h2.tiktokv.com
-api.tiktokv.com
 api21-h2.tiktokv.com
 ib.tiktokv.com
 m.tiktok.com
@@ -126,3 +126,4 @@ ttoversea.net
 ttoverseaus.net
 ttwstatic.com
 https://www.tiktok.com
+gts.byteoversea.net
