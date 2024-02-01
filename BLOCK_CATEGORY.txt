@@ -127,3 +127,4 @@ ttoverseaus.net
 ttwstatic.com
 https://www.tiktok.com
 gts.byteoversea.net
+sendgrid.net
