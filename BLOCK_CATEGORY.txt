@@ -195,4 +195,4 @@ es.repelis.top
 duckduckgo.com
 duckduckgo.com/*
 pluto.tv
-pluto.tv/*
+#pluto.tv/*
