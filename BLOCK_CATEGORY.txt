@@ -220,3 +220,5 @@ lhfoc.top
 catharskeek.top
 *.bgpmsr.co
 catharskeek.top
+iptvpromas.cl
+tvpromas.com
