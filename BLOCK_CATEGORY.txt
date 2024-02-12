@@ -219,3 +219,4 @@ tracker.leechers-paradise.org
 lhfoc.top
 catharskeek.top
 *.bgpmsr.co
+catharskeek.top
