@@ -218,3 +218,4 @@ cuevana2.surf
 tracker.leechers-paradise.org
 lhfoc.top
 catharskeek.top
+*.bgpmsr.co
