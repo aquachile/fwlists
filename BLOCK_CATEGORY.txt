@@ -194,3 +194,4 @@ es.repelis.top
 004a5a4b-d441-4291-be4a-9c4b199f8ab8-default.lobby.lnd-atl.eg.rivet.run
 duckduckgo.com
 duckduckgo.com/*
+pluto.tv
