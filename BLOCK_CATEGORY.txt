@@ -225,3 +225,4 @@ tvpromas.com
 www.xn--ua-zja.cl
 *.kwai.com
 *.cd4o.com
+*.fullbedj.rest
