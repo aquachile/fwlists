@@ -228,3 +228,4 @@ www.xn--ua-zja.cl
 *.fullbedj.rest
 *.totototorina.com 
 creativityblock.com
+*.catbox.moe
