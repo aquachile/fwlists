@@ -242,3 +242,4 @@ nopaystation.com
 *.video-delivery.net
 *.jdownloader.org
 superbloov.life
+*.cinecalidad.rest
