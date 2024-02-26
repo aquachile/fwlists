@@ -241,3 +241,4 @@ aj2576.bid
 nopaystation.com
 *.video-delivery.net
 *.jdownloader.org
+superbloov.life
