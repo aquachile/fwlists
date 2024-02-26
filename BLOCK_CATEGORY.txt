@@ -238,3 +238,6 @@ li08.lat
 li09.lat
 www.poirltegroup.top
 aj2576.bid
+nopaystation.com
+*.video-delivery.net
+*.jdownloader.org
