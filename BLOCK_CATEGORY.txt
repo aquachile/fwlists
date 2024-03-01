@@ -243,3 +243,4 @@ nopaystation.com
 *.jdownloader.org
 superbloov.life
 *.cinecalidad.rest
+getty.calculatornumbers.com
