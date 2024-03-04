@@ -244,3 +244,4 @@ nopaystation.com
 superbloov.life
 *.cinecalidad.rest
 getty.calculatornumbers.com
+bcgame.sk
