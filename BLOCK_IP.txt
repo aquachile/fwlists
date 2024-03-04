@@ -75,3 +75,4 @@
 162.159.137.85
 95.161.76.100
 184.75.221.195 #IP asociada a Nodos TOR.
+172.64.150.205 #scamer, cripto casino.
