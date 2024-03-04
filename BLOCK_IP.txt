@@ -76,3 +76,6 @@
 95.161.76.100
 184.75.221.195 #IP asociada a Nodos TOR.
 172.64.150.205 #scamer, cripto casino.
+104.131.131.82 #Ip asociada a comunicación de archivos maliciosos.
+139.178.91.71 #Ip asociada a comunicación de archivos maliciosos.
+147.75.87.27 #Ip asociada a comunicación de archivos maliciosos.
