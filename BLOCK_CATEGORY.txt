@@ -245,3 +245,5 @@ superbloov.life
 *.cinecalidad.rest
 getty.calculatornumbers.com
 bcgame.sk
+*.libp2p.io #Dominio con IoC.
+*.ipfs.io #Dominio con IoC.
