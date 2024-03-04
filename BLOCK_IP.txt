@@ -79,3 +79,4 @@
 104.131.131.82 #Ip asociada a comunicación de archivos maliciosos.
 139.178.91.71 #Ip asociada a comunicación de archivos maliciosos.
 147.75.87.27 #Ip asociada a comunicación de archivos maliciosos.
+217.138.193.162 #Ip con IoC
