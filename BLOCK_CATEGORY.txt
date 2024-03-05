@@ -247,3 +247,5 @@ getty.calculatornumbers.com
 bcgame.sk
 *.libp2p.io #Dominio con IoC.
 *.ipfs.io #Dominio con IoC.
+driver.huion.com #recopilador de drivers
+usc1.contabostorage.com #dominio con IoC
