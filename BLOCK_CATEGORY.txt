@@ -249,3 +249,5 @@ bcgame.sk
 *.ipfs.io #Dominio con IoC.
 driver.huion.com #recopilador de drivers
 usc1.contabostorage.com #dominio con IoC
+mad.dwphonetest.com
+*.dwphonetest.com
