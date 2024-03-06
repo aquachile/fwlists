@@ -81,3 +81,4 @@
 147.75.87.27 #Ip asociada a comunicación de archivos maliciosos.
 217.138.193.162 #Ip con IoC
 169.136.122.235 #ip hong kong con IoC
+140.82.197.21
