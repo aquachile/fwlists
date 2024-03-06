@@ -251,3 +251,4 @@ driver.huion.com #recopilador de drivers
 usc1.contabostorage.com #dominio con IoC
 mad.dwphonetest.com
 *.dwphonetest.com
+*.wps.com #Office no autorizado
