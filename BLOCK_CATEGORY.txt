@@ -252,3 +252,4 @@ mad.dwphonetest.com
 *.dwphonetest.com
 *.wps.com #Office no autorizado
 vpn.catonetworks.net
+cheddaramusias.life
