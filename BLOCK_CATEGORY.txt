@@ -253,3 +253,5 @@ mad.dwphonetest.com
 *.wps.com #Office no autorizado
 vpn.catonetworks.net
 cheddaramusias.life
+*.privacy.network #VPN TOR
+*.glaplicrue.com #VPN TOR
