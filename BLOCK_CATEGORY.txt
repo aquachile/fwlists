@@ -260,3 +260,4 @@ cheddaramusias.life
 *.privacy.network
 *.glaplicrue.com
 vpn.catonetworks.net
+aj0n0.top
