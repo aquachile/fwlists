@@ -246,7 +246,6 @@ getty.calculatornumbers.com
 bcgame.sk
 #Dominio con IoC.
 *.libp2p.io
-#Dominio con IoC.
 *.ipfs.io
 #recopilador de drivers
 driver.huion.com
@@ -256,7 +255,8 @@ mad.dwphonetest.com
 *.dwphonetest.com
 #Office no autorizado
 *.wps.com
-vpn.catonetworks.net
 cheddaramusias.life
-*.privacy.network  .#VPN TOR
-*.glaplicrue.com  #VPN TOR
+#VPN TOR
+*.privacy.network
+*.glaplicrue.com
+vpn.catonetworks.net
