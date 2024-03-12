@@ -244,14 +244,19 @@ superbloov.life
 *.cinecalidad.rest
 getty.calculatornumbers.com
 bcgame.sk
-*.libp2p.io #Dominio con IoC.
-*.ipfs.io #Dominio con IoC.
-driver.huion.com #recopilador de drivers
-usc1.contabostorage.com #dominio con IoC
+#Dominio con IoC.
+*.libp2p.io
+#Dominio con IoC.
+*.ipfs.io
+#recopilador de drivers
+driver.huion.com
+#dominio con IoC
+usc1.contabostorage.com
 mad.dwphonetest.com
 *.dwphonetest.com
-*.wps.com #Office no autorizado
+#Office no autorizado
+*.wps.com
 vpn.catonetworks.net
 cheddaramusias.life
-*.privacy.network #VPN TOR
-*.glaplicrue.com #VPN TOR
+*.privacy.network  .#VPN TOR
+*.glaplicrue.com  #VPN TOR
