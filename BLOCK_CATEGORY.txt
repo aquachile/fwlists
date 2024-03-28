@@ -7,6 +7,7 @@ guigebichir.website
 animeid.tv
 pixabay.com
 es.savefrom.net
+*.nanopool.org
 *.c3pool.org
 *.tiktok.com
 *.tiktok.com/*
