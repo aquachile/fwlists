@@ -290,3 +290,4 @@ one.one.one.one
 aj2627.bid
 *.gnula.nu
 pelispedia.mov
+maulevision.cl
