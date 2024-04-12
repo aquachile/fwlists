@@ -313,3 +313,4 @@ suitablepartner.life
 xmr-eu1.nanopool.org
 redcomltda.cl
 *.nanosystems.it
+supremogw722.nanosystems.it
