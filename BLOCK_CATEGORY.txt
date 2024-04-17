@@ -322,3 +322,4 @@ dateromancerealm.life
 *.totototorina.com
 dateromancerealm.life
 *.higherpro.xyz  
+wppredirect.tk
