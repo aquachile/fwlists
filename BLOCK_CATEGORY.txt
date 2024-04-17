@@ -321,3 +321,4 @@ dateromancerealm.life
 *.ipsharkk.com
 *.totototorina.com
 dateromancerealm.life
+*.higherpro.xyz  
