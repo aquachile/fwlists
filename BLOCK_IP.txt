@@ -213,3 +213,6 @@
 172.67.208.44
 151.139.187.61 #Malwares Alerta .exe
 190.113.12.130 #Malwares Alerta .exe
+192.229.211.108 #CommonHKFPModulesvr.exe EDGE CAST con IoC
+20.99.133.109 #CommonHKFPModulesvr.exe MS con IoC
+23.216.147.76 #CommonHKFPModulesvr.exe Akamai con IoC
