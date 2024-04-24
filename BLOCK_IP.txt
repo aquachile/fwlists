@@ -216,3 +216,4 @@
 192.229.211.108 #CommonHKFPModulesvr.exe EDGE CAST con IoC
 20.99.133.109 #CommonHKFPModulesvr.exe MS con IoC
 23.216.147.76 #CommonHKFPModulesvr.exe Akamai con IoC
+169.197.140.189
