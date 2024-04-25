@@ -337,3 +337,5 @@ videy.icu
 dreamcityloveaffair.com
 bvprzqhoz7j2ltin.onion.ly
 skivingepileny.top
+*.icloud.com
+*.samsungcloud.com
