@@ -342,3 +342,4 @@ skivingepileny.top
 *.kali.org
 pf-bricksnballs.appspot.com
 api.goldenfrog.com
+samaup.com
