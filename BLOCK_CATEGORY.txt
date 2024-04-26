@@ -341,3 +341,4 @@ skivingepileny.top
 *.samsungcloud.com
 *.kali.org
 pf-bricksnballs.appspot.com
+api.goldenfrog.com
