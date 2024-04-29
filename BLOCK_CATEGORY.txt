@@ -344,3 +344,4 @@ pf-bricksnballs.appspot.com
 api.goldenfrog.com
 samaup.com
 *.v423pop.dns0.org
+d23iz4esrwkib6.cloudfront.net
