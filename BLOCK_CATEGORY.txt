@@ -346,3 +346,4 @@ samaup.com
 *.v423pop.dns0.org
 d23iz4esrwkib6.cloudfront.net
 feegreep.xyz
+*.internetdownloadmanager.com
