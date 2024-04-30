@@ -348,3 +348,4 @@ d23iz4esrwkib6.cloudfront.net
 feegreep.xyz
 *.internetdownloadmanager.com
 *.emqxsl.com
+*.tailscale.com
