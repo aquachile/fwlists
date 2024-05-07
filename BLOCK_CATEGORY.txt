@@ -352,3 +352,4 @@ feegreep.xyz
 *.dh01ddfddf.xyz
 cuevana-3.gdn
 kpmg-advisors.com
+*.akaka.guru
