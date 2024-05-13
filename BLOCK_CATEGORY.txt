@@ -355,3 +355,5 @@ kpmg-advisors.com
 *.akaka.guru
 *.scitol.xyz
 www.kawaiionline.top
+*.uracilshurtles.top
+*.rpmspindly.top
