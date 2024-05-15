@@ -359,3 +359,4 @@ www.kawaiionline.top
 *.rpmspindly.top
 appwork.org
 www.strgvbst.top 
+*.dumpmedia.com 
