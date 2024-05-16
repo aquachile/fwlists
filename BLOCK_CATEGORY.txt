@@ -360,3 +360,4 @@ www.kawaiionline.top
 appwork.org
 www.strgvbst.top 
 *.dumpmedia.com 
+brave.com
