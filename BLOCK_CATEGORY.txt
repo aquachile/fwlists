@@ -367,3 +367,4 @@ compasswhitest.top
 teiankythes.top
 equiptmullein.top
 dimmestlasts.top
+*.prntscr.com
