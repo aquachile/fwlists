@@ -369,3 +369,4 @@ equiptmullein.top
 dimmestlasts.top
 *.prntscr.com
 *.bstgms4y.com
+*.noosertrouped.top
