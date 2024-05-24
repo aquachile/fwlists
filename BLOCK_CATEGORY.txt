@@ -370,3 +370,6 @@ dimmestlasts.top
 *.prntscr.com
 *.bstgms4y.com
 *.noosertrouped.top
+download.yrnvtklot.com
+ftp.yrnvtklot.com
+online.yrnvtklot.com
