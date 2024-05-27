@@ -376,3 +376,4 @@ online.yrnvtklot.com
 *.ilubn48t.xyz
 *.gd34fdldh.xyz
 *.iolo.net
+*.namebright.com
