@@ -379,3 +379,4 @@ online.yrnvtklot.com
 *.namebright.com
 *.lgaiwmc1d.com
 *.uredlaz.com
+*.gsecurecontent.com
