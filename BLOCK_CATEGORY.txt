@@ -423,3 +423,4 @@ akira-cuddles-blahajs.pirate
 9wg0dstmud.pirate
 9fz0cqekwr.parody
 *.reagaega.top 
+*.upgradeportal.org
