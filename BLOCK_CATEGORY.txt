@@ -425,3 +425,4 @@ akira-cuddles-blahajs.pirate
 *.upgradeportal.org
 qrfy.io
 *.prntscr.com
+*.cireeyn.icu
