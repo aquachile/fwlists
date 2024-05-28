@@ -426,3 +426,4 @@ akira-cuddles-blahajs.pirate
 qrfy.io
 *.prntscr.com
 *.cireeyn.icu
+rs-ny.rustdesk.com
