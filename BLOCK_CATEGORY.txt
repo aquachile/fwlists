@@ -367,7 +367,6 @@ compasswhitest.top
 teiankythes.top
 equiptmullein.top
 dimmestlasts.top
-*.prntscr.com
 *.bstgms4y.com
 *.noosertrouped.top
 download.yrnvtklot.com
