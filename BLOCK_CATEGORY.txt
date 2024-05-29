@@ -428,3 +428,4 @@ qrfy.io
 *.cireeyn.icu
 rs-ny.rustdesk.com
 *.mega.co.nz
+*.wendy.com
