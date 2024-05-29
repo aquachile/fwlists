@@ -432,3 +432,4 @@ rs-ny.rustdesk.com
 xvvsnnciengskyx.xyz
 *.easterncross.org
 desertsafari.in
+*.onion.ws
