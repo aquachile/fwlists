@@ -427,3 +427,4 @@ qrfy.io
 *.prntscr.com
 *.cireeyn.icu
 rs-ny.rustdesk.com
+*.mega.co.nz
