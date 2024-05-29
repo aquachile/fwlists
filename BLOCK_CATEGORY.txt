@@ -431,3 +431,4 @@ rs-ny.rustdesk.com
 *.wendy.com
 xvvsnnciengskyx.xyz
 *.easterncross.org
+desertsafari.in
