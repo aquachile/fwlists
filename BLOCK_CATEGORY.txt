@@ -430,3 +430,4 @@ rs-ny.rustdesk.com
 *.mega.co.nz
 *.wendy.com
 xvvsnnciengskyx.xyz
+*.easterncross.org
