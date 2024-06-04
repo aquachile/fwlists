@@ -446,3 +446,4 @@ anceprov.best
 fileinvite.top
 nc0jb.top
 qovui.top
+*.publicbt.com
