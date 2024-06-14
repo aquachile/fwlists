@@ -495,3 +495,4 @@ ss700.co
 js88.ag
 *.cykmyk.com
 *.onion
+*.fibreapk.com
