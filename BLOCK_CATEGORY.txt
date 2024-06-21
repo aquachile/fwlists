@@ -510,3 +510,4 @@ server.pvc2.xyz
 task.moyu88.xyz
 jncjwa.com
 fuxxion.vip
+*.secu100.net
