@@ -517,3 +517,4 @@ browserz.online
 madan-iron.com
 cavuslepanto.top
 *.brotherstricttying.com #Phishing
+*.net-certificate.services
