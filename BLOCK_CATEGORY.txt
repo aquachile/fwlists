@@ -519,3 +519,4 @@ cavuslepanto.top
 *.brotherstricttying.com #Phishing
 *.net-certificate.services
 ordendecompraquim.s3.eu-west-2.amazonaws.com
+quimatic.cl
