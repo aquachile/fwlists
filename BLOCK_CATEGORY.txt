@@ -520,3 +520,4 @@ cavuslepanto.top
 *.net-certificate.services
 ordendecompraquim.s3.eu-west-2.amazonaws.com
 quimatic.cl
+easypayzselfileenc.s3.eu-west-2.amazonaws.com
