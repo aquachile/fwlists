@@ -518,7 +518,7 @@ et5k413t.rest
 browserz.online
 madan-iron.com
 cavuslepanto.top
-*.brotherstricttying.com #Phishing
+*.brotherstricttying.com
 *.net-certificate.services
 ordendecompraquim.s3.eu-west-2.amazonaws.com
 quimatic.cl
