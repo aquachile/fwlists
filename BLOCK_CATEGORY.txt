@@ -1,3 +1,4 @@
+bidosaleet.best
 *.skf.com
 *.dropbox.com
 dropbox.com/*
