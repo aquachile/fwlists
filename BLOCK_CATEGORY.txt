@@ -1,3 +1,4 @@
+*.ccleaner.com
 bidosaleet.best
 *.skf.com
 *.dropbox.com
