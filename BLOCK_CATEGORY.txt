@@ -562,3 +562,4 @@ pqdrf.xyz
 www.enciclopediafinanciera.com
 *.hola.org
 wallpaper-api.buzz
+*.oastify.com
