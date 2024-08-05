@@ -564,3 +564,4 @@ www.enciclopediafinanciera.com
 wallpaper-api.buzz
 *.oastify.com
 *.auroraveil.bid
+onmanectrictor.com
