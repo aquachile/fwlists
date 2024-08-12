@@ -574,3 +574,5 @@ onmanectrictor.com
 *.knas.systems
 *.itservicecom.ru
 *.boldwin.live
+mpdn.pccgscd.com
+*.pccgscd.com
