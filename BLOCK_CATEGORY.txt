@@ -573,3 +573,4 @@ onmanectrictor.com
 *.hmfyzt.buzz
 *.knas.systems
 *.itservicecom.ru
+*.boldwin.live
