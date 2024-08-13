@@ -1,3 +1,4 @@
+easyhyp.com.ru
 *.wearetriple.com
 *.videolan.org
 *.ccleaner.com
