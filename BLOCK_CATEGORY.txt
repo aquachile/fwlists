@@ -576,3 +576,4 @@ onmanectrictor.com
 *.boldwin.live
 mpdn.pccgscd.com
 *.pccgscd.com
+launcheradmin.shop
