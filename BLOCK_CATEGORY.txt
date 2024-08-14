@@ -581,3 +581,4 @@ launcheradmin.shop
 *.pvirtual.com
 *.3h8hnjfbf.com
 dl.jalecdn.com
+mailu.wpmudev.host
