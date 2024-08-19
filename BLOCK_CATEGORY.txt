@@ -585,3 +585,5 @@ mailu.wpmudev.host
 joseordenes.com
 jjx2.com
 *.geoiplookup.live
+*.institutoitf.cl
+cetitf.cl
