@@ -583,3 +583,4 @@ launcheradmin.shop
 dl.jalecdn.com
 mailu.wpmudev.host
 joseordenes.com
+jjx2.com
