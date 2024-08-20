@@ -1,5 +1,6 @@
 easyhyp.com.ru
-+.cimm.top
+*.sheenhosting.com
+*.cimm.top
 *.wearetriple.com
 *.videolan.org
 *.ccleaner.com
