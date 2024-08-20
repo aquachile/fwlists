@@ -589,3 +589,14 @@ jjx2.com
 *.geoiplookup.live
 *.institutoitf.cl
 cetitf.cl
+*.koglique.net
+*.hihonorcloud.com
+*.psegrirtu.net
+*.vekeltaizy.net
+*.whirgaki.net
+*.coogoanu.net
+*.lecapush.net
+*.egeemsob.com
+*.staudsees.net
+*.toawhulo.com
+*.fedapush.net
