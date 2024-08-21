@@ -600,3 +600,4 @@ cetitf.cl
 *.staudsees.net
 *.toawhulo.com
 *.fedapush.net
+*.kuaishou.com
