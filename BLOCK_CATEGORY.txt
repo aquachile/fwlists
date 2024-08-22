@@ -1,4 +1,5 @@
 easyhyp.com.ru
+*.aadrm.com
 *.sheenhosting.com
 *.cimm.top
 *.wearetriple.com
