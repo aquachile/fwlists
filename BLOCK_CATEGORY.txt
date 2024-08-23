@@ -1,3 +1,4 @@
+*.onlinecheck.wildtangent.com
 easyhyp.com.ru
 *.aadrm.com
 *.sheenhosting.com
