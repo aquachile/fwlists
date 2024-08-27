@@ -603,3 +603,4 @@ cetitf.cl
 *.toawhulo.com
 *.fedapush.net
 *.kuaishou.com
+*.petafilm.com
