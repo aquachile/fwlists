@@ -1,4 +1,5 @@
 *.onlinecheck.wildtangent.com
+freereadmanga.com 
 easyhyp.com.ru
 *.aadrm.com
 *.sheenhosting.com
