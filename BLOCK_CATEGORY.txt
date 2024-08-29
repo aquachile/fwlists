@@ -606,3 +606,4 @@ cetitf.cl
 *.fedapush.net
 *.kuaishou.com
 *.petafilm.com
+apps.fastonecleaner.com
