@@ -6,7 +6,6 @@ easyhyp.com.ru
 *.sheenhosting.com
 *.cimm.top
 *.wearetriple.com
-*.videolan.org
 *.ccleaner.com
 bidosaleet.best
 *.skf.com
