@@ -1,5 +1,6 @@
 *.onlinecheck.wildtangent.com
 *.videolan.org
+janxcode.com
 freereadmanga.com
 mail-cn.al
 easyhyp.com.ru
