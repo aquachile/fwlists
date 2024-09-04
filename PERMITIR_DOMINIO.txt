@@ -9,3 +9,4 @@ ecosinfoambiental.com
 aquachile.mosaikus.com
 enlineaqas.agrosuper.cl
 salvemoslapatagonia.cl
+code.jquery.com
