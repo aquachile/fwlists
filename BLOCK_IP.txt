@@ -756,12 +756,12 @@
 139.45.197.228
 149.88.22.129
 148.153.194.139
-8.211.2.97
-45.95.67.41
-45.134.140.69
-45.135.232.2
-89.23.96.203
-188.34.188.7
-193.106.175.107
-193.124.125.78
-193.233.254.21
+8.211.2.97 #Ransomware RansomHub
+45.95.67.41 #Ransomware RansomHub
+45.134.140.69 #Ransomware RansomHub
+45.135.232.2 #Ransomware RansomHub
+89.23.96.203 #Ransomware RansomHub
+188.34.188.7 #Ransomware RansomHub
+193.106.175.107 #Ransomware RansomHub
+193.124.125.78 #Ransomware RansomHub
+193.233.254.21 #Ransomware RansomHub
