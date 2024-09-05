@@ -1,4 +1,5 @@
 *.onlinecheck.wildtangent.com
+gorajautomation.com
 *.videolan.org
 janxcode.com
 freereadmanga.com
