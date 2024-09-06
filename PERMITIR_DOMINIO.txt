@@ -10,3 +10,5 @@ aquachile.mosaikus.com
 enlineaqas.agrosuper.cl
 salvemoslapatagonia.cl
 code.jquery.com
+v2-atcpatagonia.idealcontrolcloud.com
+fw.idealcontrolcloud.com
