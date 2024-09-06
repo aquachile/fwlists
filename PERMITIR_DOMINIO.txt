@@ -12,3 +12,4 @@ salvemoslapatagonia.cl
 code.jquery.com
 v2-atcpatagonia.idealcontrolcloud.com
 fw.idealcontrolcloud.com
+realfishpro.com
