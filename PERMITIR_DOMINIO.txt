@@ -15,3 +15,4 @@ fw.idealcontrolcloud.com
 realfishpro.com
 srv-auth.innovasea.io
 *.innovasea.io
+*.realfishpro.com
