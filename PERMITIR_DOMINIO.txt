@@ -14,4 +14,4 @@ v2-atcpatagonia.idealcontrolcloud.com
 fw.idealcontrolcloud.com
 realfishpro.com
 srv-auth.innovasea.io
-innovasea.io
+*.innovasea.io
