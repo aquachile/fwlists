@@ -717,7 +717,7 @@ https://samuelelena.co/npm/module.tripadvisor/module.tripadvisor.
 https://samuelelena.co/npm/module.external/jquery.min.js
 https://samuelelena.co/npm/module.external
 https://samuelelena.co/np
-https:/samuelelena.co/npm/module.tripadvisor/module.tripadvisor.js
+https://samuelelena.co/npm/module.tripadvisor/module.tripadvisor.js
 https://samuelelena.co/npm/module.tripadvisor/module.tripadvisor.js
 https://samuelelena.co/npm/module.external/client.min.js
 https://samuelelena.co/npm/module.external/jquery.min.js&nbsp;
