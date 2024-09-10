@@ -1,3 +1,4 @@
+gateway.icloud.com
 *.onlinecheck.wildtangent.com
 gorajautomation.com
 *.videolan.org
