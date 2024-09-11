@@ -766,3 +766,4 @@
 193.124.125.78 #Ransomware RansomHub
 193.233.254.21 #Ransomware RansomHub
 186.104.114.173
+45.148.10.36
