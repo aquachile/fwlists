@@ -1,4 +1,5 @@
 dreamhomesonali.com
+*.frescologic.com
 fenixplay.info
 newultra.xyz
 1wiszw.top
