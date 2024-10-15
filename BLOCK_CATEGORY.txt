@@ -761,3 +761,4 @@ newultra.xyz
 live-tv.top
 avsxappcaptiveportal.com
 *.sheenhosting.com
+*.lamtv.tv
