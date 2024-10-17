@@ -17,3 +17,4 @@ srv-auth.innovasea.io
 *.innovasea.io
 *.realfishpro.com
 platform-ui.innovasea.io
+pedidos-alimento-aq.web.app
