@@ -19,3 +19,4 @@ srv-auth.innovasea.io
 platform-ui.innovasea.io
 pedidos-alimento-aq.web.app
 aqua.mercurytech.cl
+http://aqua.mercurytech.cl
