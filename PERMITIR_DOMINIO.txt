@@ -18,3 +18,4 @@ srv-auth.innovasea.io
 *.realfishpro.com
 platform-ui.innovasea.io
 pedidos-alimento-aq.web.app
+aqua.mercurytech.cl
