@@ -762,3 +762,4 @@ live-tv.top
 avsxappcaptiveportal.com
 *.sheenhosting.com
 *.lamtv.tv
+*.iplogger.co
