@@ -766,3 +766,4 @@ avsxappcaptiveportal.com
 *.iplogger.co
 *.cleanertoolboxonline.live
 *.aphlcnwgls.com
+evan.quacrom.com
