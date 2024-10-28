@@ -765,3 +765,4 @@ avsxappcaptiveportal.com
 *.lamtv.tv
 *.iplogger.co
 *.cleanertoolboxonline.live
+*.aphlcnwgls.com
