@@ -770,3 +770,4 @@ avsxappcaptiveportal.com
 *.cleanertoolboxonline.live
 *.aphlcnwgls.com
 evan.quacrom.com
+ciscobinary.openh264.org
