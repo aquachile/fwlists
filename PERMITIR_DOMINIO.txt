@@ -1,6 +1,3 @@
-*.gvt2.com
-gvt2.com
-172.200.52.241
 fondoconcursable.aquachile.com
 aquachile.solpedpro.com
 developer.scaleaq.net
