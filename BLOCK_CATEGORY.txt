@@ -1,3 +1,4 @@
+gurztac.wtchevalier.com
 eus-streaming-video-rt-microsoft-com.akamaized.net
 *.gvt2.com
 gvt2.com
