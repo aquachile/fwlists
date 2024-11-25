@@ -35,7 +35,7 @@ janxcode.com
 freereadmanga.com
 mail-cn.al
 easyhyp.com.ru
-*.sheenhosting.com
+sheenhosting.com
 *.cimm.top
 *.wearetriple.com
 *.ccleaner.com
