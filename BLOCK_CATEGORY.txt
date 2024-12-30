@@ -80,6 +80,10 @@ es.savefrom.net
 *.nanopool.org
 *.c3pool.org
 *.tiktok.com
+*.tiktok.org
+*.tiktoktv.com
+*.tiktokvideo.com
+*.tiktokcdn.com
 *.tiktok.com/*
 *.tiktokcdn.com
 v16a.tiktokcdn.com
